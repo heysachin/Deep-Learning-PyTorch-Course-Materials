@@ -17,7 +17,7 @@ Make sure you have installed the following before getting started
 Modules| Description
 --- |---
 **1 - 4** | *Introduction to Machine Learning using Python and Numpy*
-**4 - 10** | *Introduction to PyTorch*
+**5 - 10** | *Introduction to PyTorch*
 
 
 
