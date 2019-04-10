@@ -12,5 +12,13 @@ Make sure you have installed the following before getting started
 - <a href = "https://scipy.org/install.html">Numpy</a>
 - <a href = "https://pandas.pydata.org/pandas-docs/stable/install.html">Pandas</a>
 
+## The Sections are Divided as Follows:
+
+Modules| Description
+--- |---
+**1 - 4** | *Introduction to Machine Learning using Python and Numpy*
+**4 - 10** | *Introduction to PyTorch*
+
+
 
 #### More Contents to be Published Soon!!!
