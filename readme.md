@@ -17,8 +17,8 @@ Make sure you have installed the following before getting started
 Modules| Description
 --- |---
 **1 - 4** | *Introduction to Machine Learning using Python and Numpy*
-**5 - 12** | *Introduction to PyTorch*
-**13** | *Convolutional Neural Network in PyTorch*
+**5 - 13** | *Introduction to PyTorch*
+**14** | *Convolutional Neural Network in PyTorch*
 
 
 ### <a href = 'https://nbviewer.jupyter.org/github/heysachin/Deep-Learning-PyTorch-Course-Materials/tree/master/'> *View the Notebooks Online*</a>
